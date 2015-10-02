@@ -1,0 +1,9 @@
+\documentclass{12pt,oneside,a4paper}{article}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+Informe
+
+
+\end{document}
